@@ -1,4 +1,6 @@
 # PyBook
+===PYTHON 2 NOT TESTED===
+
 This is a notepad application that was made entirely in Python!
 
 It includes such functions as:
