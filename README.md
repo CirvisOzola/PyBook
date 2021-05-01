@@ -7,7 +7,8 @@ It includes such functions as:
 - Dark Mode Switch
 - Time and Date Input (Who Even Uses That)
 - Font Changing
-
+- Bold/Italic Text
+- Changing Text Size
 
 
 You can help this project by donating to:
